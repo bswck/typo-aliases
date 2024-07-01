@@ -6,3 +6,6 @@ The peak of human laziness
   todo: generate a graph for every layout, make typos by neighbor replacement
 - sequence typos
 - any other typo schemes?
+
+## Other
+- levenshtein ambiguity threshold???
